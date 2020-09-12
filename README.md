@@ -12,7 +12,7 @@ In this repo I'm going to separate my code into different folders for different 
 
 ## What I mean by Drilling
 
-If I wanted to say memorize the structure of a basic for loop, I would first make a "demo" file that has exactly what it should look like, and then I'd make a new file for each for loop I write from memory. Doing this I believe would make the standard syntax of writing a for loop almost second nature.
+If I wanted to memorize the structure of a basic for loop, I would first make a "demo" file that has exactly what it should look like, and then I'd make a new file for each for loop I write from memory. Doing this I believe would make the standard syntax of writing a for loop almost second nature.
 Now this works for memorizing syntax, but what about concepts? This is where I will experiment with the code. Most of this will probably be not great to look at or not optimized but the point of this will be to learn what works and what doesn't work.
 
 ## Takeaways from this repo
