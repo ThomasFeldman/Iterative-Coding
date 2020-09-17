@@ -1,4 +1,4 @@
-Each Day I'm going to do 20 until I hit 1k
+Each Day I'm going to do 20 until I hit 100 (was going to go for 1k but I think I've got it down after 100 times).
 I'll delete the 20 files I did from the previous day and just name the files as the next set of numbers
 So the first day there will be 20 files "1-20", day 2 there will be 20 files "21-40" and so on till I hit 1k.
 
